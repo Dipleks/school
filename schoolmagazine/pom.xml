@@ -29,7 +29,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>interfaceProgram.Language_4</mainClass>
+                            <mainClass>root.Magazine</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
