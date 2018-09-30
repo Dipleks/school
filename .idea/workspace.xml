@@ -6,31 +6,9 @@
       <change afterPath="$PROJECT_DIR$/../TestStudy/src/T1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../learn_english/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../learn_english/app/src/main/java/com/example/ghost/learn_english/TestWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schooldiary/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schooldiary/schooldiary.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schooldiary/src/main/java/root/Diary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schoolmagazine/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schoolmagazine/schoolmagazine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schoolmagazine/src/main/java/menu/MenuMagazine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/schoolmagazine/src/main/java/root/Root.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/src/main/java/root/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Home-project" beforeDir="false" afterPath="$PROJECT_DIR$/../Home-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Language" beforeDir="false" afterPath="$PROJECT_DIR$/../Language" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Language_2" beforeDir="false" afterPath="$PROJECT_DIR$/../Language_2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schoolmagazine/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/schoolmagazine/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/schoolmagazine/src/main/java/root/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/schoolmagazine/src/main/java/root/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/schooldiary/target/" />
     <ignored path="$PROJECT_DIR$/schoolmagazine/target/" />
@@ -45,7 +23,7 @@
     <session id="2141791610">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -221,7 +199,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538306554728" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538306578721" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -311,12 +289,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22411832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22411832" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32914287" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3287827" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
