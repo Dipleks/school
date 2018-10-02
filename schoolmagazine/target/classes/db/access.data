@@ -1,6 +1,0 @@
--- Доступ
-CREATE TABLE access (id SERIAL PRIMARY KEY, login VARCHAR(100), password VARCHAR(25));
-
--- Добавим тестовых пользователей
-INSERT INTO access (login, password)
-VALUES ('administrator', 'ap0650a012017'), ('teacher', 'test1'), ('schoolchild', 'test2');
